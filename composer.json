@@ -1,0 +1,11 @@
+{
+    "name": "mleczakm/rst-money",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Michał Mleczko",
+            "email": "kontakt@michalmleczko.waw.pl"
+        }
+    ],
+    "require": {}
+}
