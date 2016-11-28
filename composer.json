@@ -11,6 +11,6 @@
         "phpunit/phpunit": "5.5.*"
     },
     "autoload": {
-        "psr-0": { "mleczakm\\RSTMoney": "src" }
+        "psr-4": { "mleczakm\\RSTMoney\\": "src/" }
     }
 }
