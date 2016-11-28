@@ -7,7 +7,9 @@
             "email": "kontakt@michalmleczko.waw.pl"
         }
     ],
-    "require": {},
+    "require": {
+        "phpunit/phpunit": "5.5.*"
+    },
     "autoload": {
         "psr-0": { "mleczakm\\RSTMoney": "src" }
     }
