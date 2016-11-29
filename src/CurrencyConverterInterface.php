@@ -11,5 +11,5 @@ namespace mleczakm\RSTMoney;
 interface CurrencyConverterInterface
 {
 
-    public function convert($amount, CurrencyInterface $from, CurrencyInterface $to, $roundMode = Round::UP);
+    public function convert(float $amount, CurrencyInterface $from, CurrencyInterface $to, $roundMode = Round::UP) : float;
 }
